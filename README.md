@@ -49,7 +49,7 @@ This is the link for the [CSS file](styles.css).
 
 #### Preview
 
-[![Preview.png](https://i.postimg.cc/tRWcbYc9/Preview.png)](https://postimg.cc/nMV2YcZW)
+![Preview.png](https://i.postimg.cc/tRWcbYc9/Preview.png)
 
 
 #### Conclusion
