@@ -9,6 +9,16 @@ Link for this project can be found [here]('https://www.codewithfaraz.com/content
 
 ## Create a Responsive Animated Product Page with HTML and CSS
 
+<link rel="stylesheet" href="styles1.css" />
+<div class = "row">
+    <div class = "column">
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width = '100' height = '100'>
+    </div>
+    <div class = "column">
+    <img src = "https://brandslogos.com/wp-content/uploads/images/css-logo.png" width = '100' height = '100'>
+    </div>
+</div>    
+
 ### Table of Contents:
 
 1. [Project Introduction](#project-introduction)
@@ -39,7 +49,8 @@ This is the link for the [CSS file](styles.css).
 
 #### Preview
 
-![Preview](Preview.png)
+![Preview.png](https://i.postimg.cc/tRWcbYc9/Preview.png)
+
 
 #### Conclusion
 
