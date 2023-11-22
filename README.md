@@ -39,7 +39,7 @@ This is the link for the [CSS file](styles.css).
 
 #### Preview
 
-![Alt text](C:\Users\mayan\OneDrive\Desktop\GitDemo\repo2\Preview.png)
+![Preview](Preview.png)
 
 #### Conclusion
 
