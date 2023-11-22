@@ -10,3 +10,5 @@
     clear: both;
     display: table;
   }
+
+  img[alt = "Preview.png"] { height: 100px;width: 200px;}
