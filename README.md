@@ -49,7 +49,7 @@ This is the link for the [CSS file](styles.css).
 
 #### Preview
 
-![Preview](Preview.png)
+<img src = "C:\Users\mayan\OneDrive\Desktop\GitDemo\repo2\Preview.png" alt = "Preview">
 
 #### Conclusion
 
