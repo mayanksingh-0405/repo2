@@ -5,7 +5,7 @@ from a website and has been used only for
 learning purpose.
 -->
 
-Link for this project can be found [here]('https://www.codewithfaraz.com/content/38/create-a-responsive-animated-product-page-with-html-and-css#html-code').
+Link for this project can be found [here](https://www.codewithfaraz.com/content/38/create-a-responsive-animated-product-page-with-html-and-css#html-code).
 
 ## Create a Responsive Animated Product Page with HTML and CSS
 
