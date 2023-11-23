@@ -11,14 +11,13 @@ Link for this project can be found [here]('https://www.codewithfaraz.com/content
 
 <div style="display: flex;">
     <div style="height: 100px; width: 100px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 100%; height: 100%;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" style="width: 30%; height: 30%;">
     </div>
     <div style="height: 100px; width: 100px;">
-        <img src="https://brandslogos.com/wp-content/uploads/images/css-logo.png" alt="CSS" style="width: 100%; height: 100%;">
+        <img src="https://brandslogos.com/wp-content/uploads/images/css-logo.png" alt="CSS" style="width: 30%; height: 30%;">
     </div>
 </div>
-   
-      
+        
 ### Table of Contents:
 
 1. [Project Introduction](#project-introduction)
