@@ -9,8 +9,8 @@ Link for this project can be found [here]('https://www.codewithfaraz.com/content
 
 ## Create a Responsive Animated Product Page with HTML and CSS
 
-![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png){: style = "height:50px"}
-![CSS Logo](https://brandslogos.com/wp-content/uploads/images/css-logo.png)
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt = "HTML logo" width = "100" height = "100">
+<img src = "https://brandslogos.com/wp-content/uploads/images/css-logo.png" alt = "CSS Logo" width = "100" height = "100">
       
 ### Table of Contents:
 
