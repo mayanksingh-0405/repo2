@@ -1,6 +1,3 @@
-<link href="styles.css" rel="stylesheet"></link>
-<link href="styles1.css" rel="stylesheet"></link>
-
 #  This is a project only for practice
 <!---
 The project has been downloaded
@@ -12,15 +9,9 @@ Link for this project can be found [here]('https://www.codewithfaraz.com/content
 
 ## Create a Responsive Animated Product Page with HTML and CSS
 
-<div class = "row">
-    <div class = "column">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width = '100' height = '100'>
-    </div>
-    <div class = "column">
-    <img src = "https://brandslogos.com/wp-content/uploads/images/css-logo.png" width = '100' height = '100'>
-    </div>
-</div>    
-
+![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
+![CSS Logo](https://brandslogos.com/wp-content/uploads/images/css-logo.png)
+      
 ### Table of Contents:
 
 1. [Project Introduction](#project-introduction)
